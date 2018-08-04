@@ -7,7 +7,7 @@ spring:
 eurak:
   client:
     service-url:
-      defalutZone: http://eurak-dev.com:7001/eurak/
+      defaultZone: http://eurak-dev.com:7001/eurak/
 ---
 server:
   port: 8202
@@ -18,4 +18,4 @@ spring:
 eurak:
   client:
     service-url:
-      defalutZone: http://eurak-test.com:7001/eurak/
+      defaultZone: http://eurak-test.com:7001/eurak/
